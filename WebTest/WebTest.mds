@@ -8,7 +8,7 @@
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{C12532B9-2B39-4461-8AB7-6D752B57E4A2}" version="14">
 		<children>
-			<testItem name="Group1" key="{FF73281D-6E0E-42E5-922E-0037B587BB09}" group="True" parallel="False" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+			<testItem name="Group1" key="{FF73281D-6E0E-42E5-922E-0037B587BB09}" group="True" parallel="False" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 				<testParameters />
 				<children>
 					<testItem name="Login" key="{30147816-8CDA-4FC3-B46F-5154CC9AC78E}" group="False" parallel="False" enabled="True" testMoniker="KDT\{F4D48C6C-4306-4EA8-A304-090D694E7127}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
@@ -28,7 +28,7 @@
 					</testItem>
 				</children>
 			</testItem>
-			<testItem name="Group2" key="{5F36753D-2D72-41A4-AB81-D001D668A736}" group="True" parallel="False" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+			<testItem name="Group2" key="{5F36753D-2D72-41A4-AB81-D001D668A736}" group="True" parallel="False" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 				<testParameters />
 				<children>
 					<testItem name="Login_2" key="{48F0F144-56C4-48F3-862A-C3E9F85B86AD}" group="False" parallel="False" enabled="True" testMoniker="KDT\{F4D48C6C-4306-4EA8-A304-090D694E7127}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
@@ -68,6 +68,9 @@
 						<Row No="4" Cell0="Plato Mcclain" Cell1="thornton@bibendum.edu" Cell2="Hello, I live in Valencia and my phone number is 421-364-8522" />
 					</DefValue>
 				</Variable>
+				<Variable Name="Password1" Type="Password" Local="False">
+					<DefValue StrValue="3800390036003100360033004400320046003400440038004300420046003100380043003900420041003700390036003500410031004200310039003100390041003900430042004400300046004400" />
+				</Variable>
 			</Items>
 		</data>
 	</variables>
@@ -99,7 +102,7 @@
 		<setting name="AzureDevOps_TeamProject" type="5" value="" />
 		<setting name="AzureDevOps_TeamProjectCollection" type="5" value="" />
 		<setting name="AzureDevOps_URL" type="5" value="" />
-		<setting name="BitBar_APIKey" type="5" value="" />
+		<setting name="BitBar_APIKey" type="5" value="3A02A0439CAF828D14862B023F8901E9C0EE67607648EBCE543DD3C0788AA87F5AE92C0D489211D717478BCDB81A05D64AADD08CC1CB88B95BF2BA3D427F7FF71235" />
 		<setting name="BitBar_APIURL" type="5" value="https://cloud.bitbar.com/api/" />
 		<setting name="BitBar_FindAndroidDevice" type="5" value="( Device Group As in Selected Device )" />
 		<setting name="BitBar_FindIOSDevice" type="5" value="( Device Group As in Selected Device )" />
@@ -116,13 +119,13 @@
 				<row val0="Via proxy" />
 			</data>
 		</setting>
-		<setting name="CBT_Authkey" type="5" value="" />
+		<setting name="CBT_Authkey" type="5" value="3A02FEEB41C5EAB824A082889AA5EF3EF1C6D39D2CC9837A8436CE37A475F0C573E3F03D2FF7" />
 		<setting name="CBT_LocalHtmlDir" type="5" value="" />
 		<setting name="CBT_ProxyAddress" type="5" value="" />
 		<setting name="CBT_ProxyLogin" type="5" value="" />
 		<setting name="CBT_ProxyPassword" type="5" value="" />
 		<setting name="CBT_ProxyPort" type="2" value="0" />
-		<setting name="CBT_UserName" type="5" value="" />
+		<setting name="CBT_UserName" type="5" value="corey.vernon@smartbear.com" />
 		<setting name="CLRBridge_PreferredApartmentModel" type="6" rowIndex="0" colIndex="0">
 			<columns>
 				<column type="5" enabled="True" />
