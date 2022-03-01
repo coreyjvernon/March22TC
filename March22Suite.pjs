@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{732D9F7E-A813-4083-9D2B-2769890E963A}">
+	<children>
+		<child name="WebTest" key="{05E6EB88-5037-4924-8EB0-F3F433C71A23}" path="WebTest\WebTest.mds" />
+		<child name="MobileTest" key="{066BCA84-1EB9-405D-ABA5-1A2CCE97ABB3}" path="MobileTest\MobileTest.mds" />
+		<child name="DeskTest" key="{526239FB-5C49-4D95-9EFA-738E2FF806D1}" path="DeskTest\DeskTest.mds" />
+	</children>
+	<testItems key="{8F9067A5-A6D1-4089-8240-B11EA793C3C1}">
+		<children>
+			<testItem key="{05E6EB88-5037-4924-8EB0-F3F433C71A23}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{066BCA84-1EB9-405D-ABA5-1A2CCE97ABB3}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{526239FB-5C49-4D95-9EFA-738E2FF806D1}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{CBCB801E-E1AF-4EFC-BB5D-E44AE768D0AD}" />
+	<analysis key="{CB2E8432-B4D7-411C-A7E8-D37101B8FB63}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

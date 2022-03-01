@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="data">
+			<Node name="{05e6eb88-5037-4924-8eb0-f3f433c71a23}">
+				<Prp name="relpath" type="S" value="WebTest\WebTest.mds.tcLS"/>
+			</Node>
+			<Node name="{066bca84-1eb9-405d-aba5-1a2cce97abb3}">
+				<Prp name="relpath" type="S" value="MobileTest\MobileTest.mds.tcLS"/>
+			</Node>
+			<Node name="{24b6fa0b-0143-461a-9758-aeb9e9a9428b}">
+				<Prp name="default project" type="S" value="{05E6EB88-5037-4924-8EB0-F3F433C71A23}"/>
+			</Node>
+			<Node name="{526239fb-5c49-4d95-9efa-738e2ff806d1}">
+				<Prp name="relpath" type="S" value="DeskTest\DeskTest.mds.tcLS"/>
+			</Node>
+			<Node name="logs">
+				<Prp name="key" type="S" value="{D4556E36-DEAF-4D54-81AF-137A6783F1C5}"/>
+				<Prp name="relpath" type="S" value="Log"/>
+			</Node>
+			<Node name="variables"/>
+		</Node>
+		<Prp name="signature" type="S" value="{71078212-FAEB-4856-A901-B237C89E6B5C}"/>
+	</Node>
+</Nodes>
