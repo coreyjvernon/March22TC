@@ -28,7 +28,7 @@
 
 function ContactGen()
 {
-  TestedApps.Orders.Run();
+  //TestedApps.Orders.Run();
   Project.Variables.ContactGen.Iterator.Reset();
   for(; !Project.Variables.ContactGen.Iterator.IsEOF();)
   {
