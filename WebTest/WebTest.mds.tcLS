@@ -35,6 +35,9 @@
 					<Node name="var2">
 						<Prp name="name" type="S" value="Password1"/>
 					</Node>
+					<Node name="var3">
+						<Prp name="name" type="S" value="Password2"/>
+					</Node>
 				</Node>
 				<Prp name="version" type="I" value="4"/>
 			</Node>
