@@ -21,12 +21,9 @@
 	<Node name="root">
 		<Node name="data">
 			<Node name="{24b6fa0b-0143-461a-9758-aeb9e9a9428b}">
-				<Prp name="activity" type="S" value="{F4D48C6C-4306-4EA8-A304-090D694E7127}"/>
+				<Prp name="activity" type="S" value="{05E6EB88-5037-4924-8EB0-F3F433C71A23}"/>
 			</Node>
 			<Node name="{2c786620-2489-4cbb-9c1e-1a94437a9245}">
-				<Node name="{239d5549-363c-4673-9655-36efa6326f7c}">
-					<Prp name="hash" type="I" value="1"/>
-				</Node>
 				<Node name="{8cad60a5-478d-4a85-947b-13f01cf80a43}">
 					<Prp name="hash" type="I" value="1"/>
 				</Node>
@@ -35,13 +32,35 @@
 				<Node name="workspace">
 					<Node name="0">
 						<Node name="editor">
-							<Prp name="editor" type="S" value="{3A69B856-B5F3-4523-8E56-742F551EA963}"/>
-							<Prp name="focused" type="S" value="{E0F1692D-51E9-4C34-AE0A-B4B9F9C07660}"/>
+							<Node name="{531ace08-e68e-400b-9eb9-e24763725fd8}">
+								<Prp name="key" type="S" value="{5C01248F-3380-43BC-B513-5646FA6839C7}"/>
+							</Node>
+							<Prp name="editor" type="S" value="{5E79A170-9039-4A13-8F90-971D8DAAE042}"/>
+							<Prp name="focused" type="S" value="{5C01248F-3380-43BC-B513-5646FA6839C7}"/>
+						</Node>
+						<Prp name="edititem" type="S" value="{C12532B9-2B39-4461-8AB7-6D752B57E4A2}"/>
+					</Node>
+					<Node name="1">
+						<Node name="editor">
+							<Node name="{18d21374-749a-4b12-9591-aeba7c5332a9}"/>
+							<Node name="{9185a4c3-0780-497d-b02d-ad3af4e9cf98}">
+								<Prp name="key" type="S" value="{010C8218-525A-4735-A05E-3EC8BCBD1BBB}"/>
+							</Node>
+							<Node name="{98f67204-5328-4e0e-99f5-6d1b1e6d4971}"/>
+							<Prp name="editor" type="S" value="{28A4DA77-375D-45D1-8334-8D8D56C06063}"/>
+							<Prp name="focused" type="S" value="{010C8218-525A-4735-A05E-3EC8BCBD1BBB}"/>
+						</Node>
+						<Prp name="edititem" type="S" value="{05E6EB88-5037-4924-8EB0-F3F433C71A23}"/>
+					</Node>
+					<Node name="2">
+						<Node name="editor">
+							<Prp name="editor" type="S" value="{A10D65F4-FB78-4A62-9709-C237D56AC3C3}"/>
+							<Prp name="focused" type="S" value="{77E83F63-B6B9-4B61-AA16-F884DA1F9770}"/>
 						</Node>
 						<Prp name="edititem" type="S" value="{25C37806-ADF4-46DA-8ACE-9899FCA45EC6}"/>
 					</Node>
-					<Prp name="docking" type="H" value="617162696E00000001000000D20100007801730C74F177F6E66680023920CDCDC6C090CF0C13C14777324264EF783F7BEFDEFAD17971E7F52BA56F64391903801220136EB526AD5BB3FFBC6BBF3EEF12B6FD17BE7FFDF9FFFFC6FFFFFF83B431615AC102310E3709D40A068780E69F002A43E7E3D60994A900C9825CBC16C40082B01D99569FB72ABBF68595E887CAAD4C06B9EE3AD048901C8AEBB88002C10C250C890C454052812100C84A6748058AD2C1C520D790020034475714"/>
-					<Prp name="editorscount" type="I" value="1"/>
+					<Prp name="docking" type="H" value="617162696E000000010000004E0300007801730C74F177F6E66680023920EDCBC6C090CF0C13C147B34255DDF17EF6DEBDF5A3F3E2CEEB574ADFC872329E61626000C999DC5F7FF0D884AB7EDD97457C54D5B2D537FFFCFF7FE3FFFFFF418632615AC182CF32901C502B181C6264603881858F577F05481664E95AA8B22FA9BC0B2B7E27794DE73C647E35EBF06190EBAE03CD0749A3B88E0B2810CC50C290C850042415180280AC748654A0281D5C0CB46539108340F9AD251AB1E6175D9B4D7A7BC30E2424E374303B507138D081490C2140B218E8687A39F52CC89D4050B0B032CE7282B057FF84E9B2BDAB1E38E174AA145071349A63638161AC0BC4AE0C1540E7273394023D90C990CF90070EFB1C60E8E70175D127EC8129997800008164A986"/>
+					<Prp name="editorscount" type="I" value="3"/>
 					<Prp name="enabled" type="B" value="-1"/>
 				</Node>
 			</Node>
