@@ -21,7 +21,7 @@
 	<Node name="root">
 		<Node name="data">
 			<Node name="{24b6fa0b-0143-461a-9758-aeb9e9a9428b}">
-				<Prp name="activity" type="S" value="{526239FB-5C49-4D95-9EFA-738E2FF806D1}"/>
+				<Prp name="activity" type="S" value="{F4D48C6C-4306-4EA8-A304-090D694E7127}"/>
 			</Node>
 			<Node name="{2c786620-2489-4cbb-9c1e-1a94437a9245}">
 				<Node name="{239d5549-363c-4673-9655-36efa6326f7c}">
@@ -35,42 +35,13 @@
 				<Node name="workspace">
 					<Node name="0">
 						<Node name="editor">
-							<Node name="{531ace08-e68e-400b-9eb9-e24763725fd8}">
-								<Prp name="key" type="S" value="{3F833B8B-9F98-4E13-8CCF-9622E3281217}"/>
-							</Node>
-							<Prp name="editor" type="S" value="{5306B48D-28A6-4685-9045-C088F8E6B982}"/>
-							<Prp name="focused" type="S" value="{0FF67173-5C44-429E-B65D-FBCCAA79610C}"/>
-						</Node>
-						<Prp name="edititem" type="S" value="{C82814C7-2D21-444F-8A11-308503B770A5}"/>
-					</Node>
-					<Node name="1">
-						<Node name="editor">
-							<Node name="{8c45957c-f4b3-4dd7-9212-49cbd350f69f}">
-								<Prp name="key" type="S" value="{B1519FE7-29B4-42E5-9416-07903653D6CF}"/>
-							</Node>
-							<Node name="{d0151f8e-51fe-49da-8534-008b9f1b7c45}">
-								<Prp name="col" type="I" value="0"/>
-								<Prp name="key" type="S" value="{596BD5CB-3992-49AD-83F7-770690CDA3AC}"/>
-								<Prp name="line" type="I" value="0"/>
-								<Prp name="sellength" type="I" value="0"/>
-								<Prp name="selstart" type="I" value="0"/>
-								<Prp name="windowchar" type="I" value="0"/>
-								<Prp name="windowline" type="I" value="0"/>
-							</Node>
-							<Prp name="editor" type="S" value="{C2515DC6-C74D-4C4B-AAB7-1F6F6A5A9013}"/>
-							<Prp name="focused" type="S" value="{C69E06D0-03A5-4AAA-810E-AAD5E52A9924}"/>
-						</Node>
-						<Prp name="edititem" type="S" value="{85E110B5-A545-410B-A206-8EC0A20C81D0}"/>
-					</Node>
-					<Node name="2">
-						<Node name="editor">
-							<Prp name="editor" type="S" value="{E028D733-57D3-48CC-802D-119E59E5F659}"/>
-							<Prp name="focused" type="S" value="{7EA57D94-B40D-4D3D-B3F7-84FA864168EB}"/>
+							<Prp name="editor" type="S" value="{3A69B856-B5F3-4523-8E56-742F551EA963}"/>
+							<Prp name="focused" type="S" value="{E0F1692D-51E9-4C34-AE0A-B4B9F9C07660}"/>
 						</Node>
 						<Prp name="edititem" type="S" value="{25C37806-ADF4-46DA-8ACE-9899FCA45EC6}"/>
 					</Node>
-					<Prp name="docking" type="H" value="617162696E000000010000005C0300007801730C74F177F6E666800239201DCAC6C090CF0C13C1470B4355DDF17EF6DEBDF5A3F3E2CEEB574ADFC87232DE62626000C9DD6A4D5AB766FF79D77E7DDE256CFB2F7C5FFDF3FFFF8DFFFFFF0719CA8469050B3ECB407240AD6070889181E104163E5EFD15205990A56BA1CA8CAF6B3CB81C7EC6A34157705EE4D36F9120D75D079A0F9246711D17502098A1842191A108482A30040059E90CA940513AB81868CB79200681DE2D6CC1CB345ADD26B81EE8F8F16C67134E074B03154733B8009D58CC90CD1002A64B1862814ED7056257860AA048324329D033990CF90C79602FE5003D9507D4471F2F6D06F907088EC5061EF23DEEEDB36ABB7C7E56D404619C5EE2052A76063B16140FC940A70703C922A0070A806C7A399B11E46662010072FDAE86"/>
-					<Prp name="editorscount" type="I" value="3"/>
+					<Prp name="docking" type="H" value="617162696E00000001000000D20100007801730C74F177F6E66680023920CDCDC6C090CF0C13C14777324264EF783F7BEFDEFAD17971E7F52BA56F64391903801220136EB526AD5BB3FFBC6BBF3EEF12B6FD17BE7FFDF9FFFFC6FFFFFF83B431615AC102310E3709D40A068780E69F002A43E7E3D60994A900C9825CBC16C40082B01D99569FB72ABBF68595E887CAAD4C06B9EE3AD048901C8AEBB88002C10C250C890C454052812100C84A6748058AD2C1C520D790020034475714"/>
+					<Prp name="editorscount" type="I" value="1"/>
 					<Prp name="enabled" type="B" value="-1"/>
 				</Node>
 			</Node>
@@ -89,6 +60,9 @@
 						<Node name="expanding">
 							<Prp name="expandlist" type="H" value="617162696E0000000100000004000000780163606060000000040001"/>
 						</Node>
+					</Node>
+					<Node name="{7cf31dd7-8442-4ae8-b3b5-b79656e40142}\testdata">
+						<Node name="expanding"/>
 					</Node>
 					<Node name="{8426e366-a21e-4706-a7a5-87e4c2b2b764}\testdata">
 						<Node name="expanding"/>
@@ -171,7 +145,6 @@
 					</Node>
 				</Node>
 				<Node name="march22suite logs">
-					<Node name="desktest logs"/>
 					<Node name="webtest logs"/>
 				</Node>
 			</Node>

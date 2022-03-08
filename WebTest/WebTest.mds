@@ -68,12 +68,6 @@
 						<Row No="4" Cell0="Plato Mcclain" Cell1="thornton@bibendum.edu" Cell2="Hello, I live in Valencia and my phone number is 421-364-8522" />
 					</DefValue>
 				</Variable>
-				<Variable Name="Password1" Type="Password" Local="False">
-					<DefValue StrValue="3800390036003100360033004400320046003400440038004300420046003100380043003900420041003700390036003500410031004200310039003100390041003900430042004400300046004400" />
-				</Variable>
-				<Variable Name="Password2" Type="Password" Local="False">
-					<DefValue StrValue="3800390036003100390033004400310046003400440038004300420046003000380043003900430034003700370033003800310044004400430037003100390039004500460031004400310039003400" />
-				</Variable>
 			</Items>
 		</data>
 	</variables>

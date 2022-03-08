@@ -411,6 +411,18 @@
 									</Child>
 								</Children>
 							</Child>
+							<Child Name="wndChrome_WidgetWin_1" Key="{185B72A0-E60B-4242-99ED-DC2BEB2F715F}">
+								<Image FileName="-1428331572" Left="0" Top="0" Right="418" Bottom="273" />
+								<TypeInfo Item0="{BBAABBDA-66AA-47E5-812E-F87250CD54A5}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Chrome_WidgetWin_1" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Restore pages?" />
+									</Property>
+								</Properties>
+							</Child>
 						</Children>
 					</Child>
 				</Children>
@@ -453,6 +465,7 @@
 					<Child Name="panelYourEnquiryHasBeen" Owner="{DF404C6D-E6DE-4572-88F1-811FFBF42118}" />
 				</Child>
 			</Child>
+			<Child Name="wndChrome_WidgetWin_1" Owner="{185B72A0-E60B-4242-99ED-DC2BEB2F715F}" />
 		</Child>
 	</LogicalNodes>
 </Root>
