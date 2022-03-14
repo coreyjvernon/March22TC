@@ -12,12 +12,12 @@
 			<testItem name="Group1" key="{40FD2872-88B5-4DEC-A52D-8B02C9206041}" group="True" parallel="False" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 				<testParameters />
 				<children>
-					<testItem name="Contact" key="{41393266-F411-4466-BAA2-41F55F14796F}" group="False" parallel="False" enabled="False" testMoniker="KDT\{35480B8F-7135-44AF-8651-4617D98BF31E}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+					<testItem name="Contact" key="{41393266-F411-4466-BAA2-41F55F14796F}" group="False" parallel="False" enabled="True" testMoniker="KDT\{35480B8F-7135-44AF-8651-4617D98BF31E}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
 						<testParameters />
 						<environments activeCloud="CBT" />
 						<children />
 					</testItem>
-					<testItem name="ContactXL" key="{A1B2D267-1788-4C41-B0B2-4D3421DB889B}" group="False" parallel="False" enabled="False" testMoniker="{85E110B5-A545-410B-A206-8EC0A20C81D0}ContactXL" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+					<testItem name="ContactXL" key="{A1B2D267-1788-4C41-B0B2-4D3421DB889B}" group="False" parallel="False" enabled="True" testMoniker="{85E110B5-A545-410B-A206-8EC0A20C81D0}ContactXL" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
 						<testParameters />
 						<environments activeCloud="CBT" />
 						<children />
