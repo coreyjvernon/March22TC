@@ -219,6 +219,15 @@
 				<Prp name="relpath" type="S" value="3_8_2022_12_05 PM_30_551\Description.tcLog"/>
 				<Prp name="status" type="I" value="0"/>
 			</Node>
+			<Node name="log idx=0022">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44629.5387597685"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{7F5D89ED-21BA-466B-B299-CDDA54502896}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [Login]"/>
+				<Prp name="relpath" type="S" value="3_9_2022_12_55 PM_48_844\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
 		</Node>
 		<Prp name="signature" type="S" value="{681DCC69-A39F-4C4D-8E7D-B2D9362FAF4F}"/>
 		<Prp name="version" type="S" value="11.0"/>
