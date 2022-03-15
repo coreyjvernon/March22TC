@@ -6,6 +6,17 @@
 				<NodeBitmaps />
 			</Extenders>
 		</Data>
+		<Children>
+			<Operation Type="{0CAB7DC6-68EA-472F-AAFD-F1EA1701087E}">
+				<Data>
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="HubUrl" DefVarType="5" VarType="8" ValueType="6" ValueValue="http://localhost:4723/wd/hub" />
+						<Parameter Name="Capabilities" DefVarType="5" VarType="8" ValueType="6" ValueValue="{&quot;app&quot;:&quot;C:\\Users\\Corey.Vernon\\Downloads\\Orders (1).apk&quot;,&quot;deviceName&quot;:&quot; Emulator-5554&quot;,&quot;platformName&quot;:&quot;Android&quot;,&quot;automationName&quot;:&quot;UIAutomator2&quot;,&quot;newCommandTimeout&quot;:&quot;120&quot;,&quot;noReset&quot;:&quot;true&quot;,&quot;fullReset&quot;:&quot;false&quot;}" />
+						<Parameter Name="ConnectTimeoutSec" DefVarType="12" VarType="257" ValueType="6" ValueValue="" />
+					</Parameters>
+				</Data>
+			</Operation>
+		</Children>
 	</TestData>
 	<Parameters Key="{67B99942-62AB-4EEC-9E16-6AEBA2733C66}" />
 </Root>

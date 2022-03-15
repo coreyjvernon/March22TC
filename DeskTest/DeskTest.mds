@@ -9,22 +9,22 @@
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{C82814C7-2D21-444F-8A11-308503B770A5}" version="14">
 		<children>
-			<testItem name="Group1" key="{40FD2872-88B5-4DEC-A52D-8B02C9206041}" group="True" parallel="False" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+			<testItem name="Group1" key="{40FD2872-88B5-4DEC-A52D-8B02C9206041}" group="True" parallel="False" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 				<testParameters />
 				<children>
-					<testItem name="Contact" key="{41393266-F411-4466-BAA2-41F55F14796F}" group="False" parallel="False" enabled="True" testMoniker="KDT\{35480B8F-7135-44AF-8651-4617D98BF31E}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+					<testItem name="Contact" key="{41393266-F411-4466-BAA2-41F55F14796F}" group="False" parallel="False" enabled="True" testMoniker="KDT\{35480B8F-7135-44AF-8651-4617D98BF31E}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 						<testParameters />
 						<environments activeCloud="CBT" />
 						<children />
 					</testItem>
-					<testItem name="ContactXL" key="{A1B2D267-1788-4C41-B0B2-4D3421DB889B}" group="False" parallel="False" enabled="True" testMoniker="{85E110B5-A545-410B-A206-8EC0A20C81D0}ContactXL" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+					<testItem name="ContactXL" key="{A1B2D267-1788-4C41-B0B2-4D3421DB889B}" group="False" parallel="False" enabled="True" testMoniker="{85E110B5-A545-410B-A206-8EC0A20C81D0}ContactXL" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 						<testParameters />
 						<environments activeCloud="CBT" />
 						<children />
 					</testItem>
 				</children>
 			</testItem>
-			<testItem name="Group2" key="{B4FBAF63-97C4-482A-8F1C-B65132EA1FDE}" group="True" parallel="False" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+			<testItem name="Group2" key="{B4FBAF63-97C4-482A-8F1C-B65132EA1FDE}" group="True" parallel="False" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 				<testParameters />
 				<children>
 					<testItem name="Contact_2" key="{E18CA074-DBEC-4E78-958A-301F057B2801}" group="False" parallel="False" enabled="True" testMoniker="KDT\{35480B8F-7135-44AF-8651-4617D98BF31E}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">

@@ -284,6 +284,33 @@
 											</Selector>
 										</Selectors>
 									</Child>
+									<Child Name="panel5" Key="{9403FAFD-D933-42CB-865E-36723218EDB4}">
+										<Image FileName="-779372738" Left="1157" Top="614" Right="1591" Bottom="723" />
+										<TypeInfo Item0="{7CB3837F-66F7-4971-B4B8-A94E52A4B157}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//div[contains(@class, &apos;validation-summary-errors&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-center&apos;]//div/div/div/div/div" />
+											</Selector>
+											<Selector>
+												<Value Value="//div/div/div/div/div/div/div" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="panelIAmAlreadyRegistered" Key="{82ECAB2F-CD71-489B-B209-410F2377B4B1}">
+										<Image FileName="-358156922" Left="1087" Top="453" Right="1643" Bottom="945" />
+										<TypeInfo Item0="{BBB24A71-204D-4E7B-AB8F-2EC8611A2A84}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//div[contains(@class, &apos;card&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//section/div/div/div/div/div/div" />
+											</Selector>
+										</Selectors>
+									</Child>
 								</Children>
 							</Child>
 							<Child Name="pageContactus" Key="{43D41040-0F00-4597-8158-29985F03010B}">
@@ -468,6 +495,8 @@
 					<Child Name="panel2" Owner="{9A66851E-E6E8-4DAC-9E2C-27AFA9BF64AC}" />
 					<Child Name="panel3" Owner="{A2E1E92D-1BBD-4518-8C26-F2F23928F54C}" />
 					<Child Name="panel4" Owner="{06A7A447-D675-41FB-9868-8AF4456177DB}" />
+					<Child Name="panel5" Owner="{9403FAFD-D933-42CB-865E-36723218EDB4}" />
+					<Child Name="panelIAmAlreadyRegistered" Owner="{82ECAB2F-CD71-489B-B209-410F2377B4B1}" />
 				</Child>
 			</Child>
 			<Child Name="pageContactus" Owner="{43D41040-0F00-4597-8158-29985F03010B}">

@@ -66,6 +66,15 @@
 				<Prp name="relpath" type="S" value="3_14_2022_9_48 AM_40_68\Description.tcLog"/>
 				<Prp name="status" type="I" value="2"/>
 			</Node>
+			<Node name="log idx=0005">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44634.5075193634"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{619477EB-F407-4195-8C52-CECCE3AFC0E7}"/>
+				<Prp name="nameofroot" type="S" value="DeskTest"/>
+				<Prp name="relpath" type="S" value="3_14_2022_12_10 PM_49_674\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
 		</Node>
 		<Prp name="signature" type="S" value="{681DCC69-A39F-4C4D-8E7D-B2D9362FAF4F}"/>
 		<Prp name="version" type="S" value="11.0"/>

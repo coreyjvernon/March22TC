@@ -190,6 +190,43 @@
 									</Child>
 								</Children>
 							</Child>
+							<Child Name="wndOrder" Key="{C3D49A78-ADFA-482E-8571-98AE1B794918}">
+								<Image FileName="-539101299" Left="0" Top="0" Right="610" Bottom="598" />
+								<TypeInfo Item0="{A34B7D85-0487-46EC-AA9E-2C94EF4CC356}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="WindowsForms10.Window.8.app.0.141b42a_r8_ad1" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Order" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="WindowsForms10Window8app0141b42ar8ad1" Key="{D89B748E-B489-4DB6-99BE-F2141215154F}">
+										<Image FileName="-539101299" Left="14" Top="42" Right="594" Bottom="542" />
+										<TypeInfo Item0="{CC0F4EBE-F246-4753-AD93-78E4CE697DA1}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="WindowsForms10.Window.8.app.0.141b42a_r8_ad1" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="Item" Key="{BC197127-EC7B-4760-B577-E181B9C9DE7F}">
+												<Image FileName="-539101299" Left="144" Top="242" Right="584" Bottom="267" />
+												<TypeInfo Item0="{E581EDAA-387D-494E-960D-913A8392E343}" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="WindowsForms10.EDIT.app.0.141b42a_r8_ad1" />
+													</Property>
+													<Property Name="Index">
+														<Value Value="1" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
 						</Children>
 					</Child>
 				</Children>
@@ -218,6 +255,11 @@
 			</Child>
 			<Child Name="dlgConfirmation" Owner="{7B254C48-0C29-4869-847B-2115DCB8E397}">
 				<Child Name="btnNo" Owner="{8416AC09-1D27-4D2E-86A5-ECAA4F237564}" />
+			</Child>
+			<Child Name="wndOrder" Owner="{C3D49A78-ADFA-482E-8571-98AE1B794918}">
+				<Child Name="WindowsForms10Window8app0141b42ar8ad1" Owner="{D89B748E-B489-4DB6-99BE-F2141215154F}">
+					<Child Name="Item" Owner="{BC197127-EC7B-4760-B577-E181B9C9DE7F}" />
+				</Child>
 			</Child>
 		</Child>
 	</LogicalNodes>

@@ -112,6 +112,11 @@
 					<ConnectionInfo FileName="..\..\..\..\..\Desktop\TestComplete\Book1.xlsx" Table="Sheet1$" HasColumnNames="True" />
 				</DefValue>
 			</Variable>
+			<Variable Name="Var2" Type="DB Table" Local="False">
+				<DefValue Kind="{94ACFE87-8AC5-4220-8268-52323FBEB9FB}">
+					<ConnectionInfo FileName="..\..\..\..\..\Desktop\TestComplete\Book1.xlsx" Table="Sheet1$" HasColumnNames="True" />
+				</DefValue>
+			</Variable>
 		</Items>
 	</Variables>
 	<Parameters Key="{DAF4E13C-BE71-43F1-A863-B2DB5FDFE339}" />

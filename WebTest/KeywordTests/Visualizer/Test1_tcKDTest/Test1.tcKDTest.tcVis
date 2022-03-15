@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
-	<data key="{E8A0EFE5-279F-46F3-B386-C7B806D2A6B4}" />
+	<data key="{E8A0EFE5-279F-46F3-B386-C7B806D2A6B4}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="44635.5566203704" objectName="Aliases.browser.pageShop.header.navUsd.linkLogIn" objectLeft="1547" objectTop="88" objectRight="1643" objectBottom="141" clickPointX="1622" clickPointY="127" imageFileName="tcvi344728203161768.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="44635.557025463" objectName="Aliases.browser.pageLogin.sectionContent.textboxUsername" objectLeft="1148" objectTop="605" objectRight="1582" objectBottom="669" clickPointX="1919" clickPointY="256" imageFileName="tcvi3447634531617616.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="44635.5570601852" objectName="Aliases.browser.pageLogin.sectionContent.passwordboxPassword" objectLeft="1148" objectTop="689" objectRight="1582" objectBottom="753" clickPointX="1919" clickPointY="256" imageFileName="tcvi3447667961617619.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="44635.5571527778" objectName="Aliases.browser.pageLogin.sectionContent.buttonLogIn" objectLeft="1148" objectTop="820" objectRight="1582" objectBottom="884" clickPointX="1360" clickPointY="833" imageFileName="tcvi3447739681617620.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="8" kind="0" dateTime="44635.5587037037" objectName="Aliases.browser.BrowserWindow" objectLeft="-9" objectTop="-9" objectRight="1929" objectBottom="1089" clickPointX="-1" clickPointY="-1" imageFileName="tcvi3449081871617622.png" storageFileName="tcvi3449081871617622.7z" needUpdate="False" rectColor="255" />
+	</data>
 </Root>
