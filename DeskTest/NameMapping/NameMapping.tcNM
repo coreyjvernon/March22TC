@@ -229,6 +229,27 @@
 							</Child>
 						</Children>
 					</Child>
+					<Child Name="browser" Key="{CAA3002A-6FD6-4AEF-B93F-8FB32E2FEB72}">
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="BrowserWindow" Key="{63E0AEF3-F42D-4098-911C-DCB167251B95}">
+								<Image FileName="-347438259" Left="-9" Top="-9" Right="1929" Bottom="1089" />
+								<TypeInfo Item0="{2D8BB571-7D23-4684-B79B-841E6609F4C9}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="0" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
 				</Children>
 			</Child>
 		</Children>
@@ -261,6 +282,9 @@
 					<Child Name="Item" Owner="{BC197127-EC7B-4760-B577-E181B9C9DE7F}" />
 				</Child>
 			</Child>
+		</Child>
+		<Child Name="browser" Owner="{CAA3002A-6FD6-4AEF-B93F-8FB32E2FEB72}">
+			<Child Name="BrowserWindow" Owner="{63E0AEF3-F42D-4098-911C-DCB167251B95}" />
 		</Child>
 	</LogicalNodes>
 </Root>

@@ -11,17 +11,17 @@
 			<testItem name="Group1" key="{FF73281D-6E0E-42E5-922E-0037B587BB09}" group="True" parallel="False" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 				<testParameters />
 				<children>
-					<testItem name="Login" key="{30147816-8CDA-4FC3-B46F-5154CC9AC78E}" group="False" parallel="False" enabled="True" testMoniker="KDT\{F4D48C6C-4306-4EA8-A304-090D694E7127}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+					<testItem name="Login" key="{30147816-8CDA-4FC3-B46F-5154CC9AC78E}" group="False" parallel="False" enabled="True" testMoniker="KDT\{F4D48C6C-4306-4EA8-A304-090D694E7127}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 						<testParameters />
 						<environments activeCloud="CBT" />
 						<children />
 					</testItem>
-					<testItem name="Contact" key="{B7FD1AE4-4A5D-458E-997D-589E4A3A3A1A}" group="False" parallel="False" enabled="True" testMoniker="KDT\{CC949304-F78C-4145-A01E-9D5909EF84CE}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+					<testItem name="Contact" key="{B7FD1AE4-4A5D-458E-997D-589E4A3A3A1A}" group="False" parallel="False" enabled="True" testMoniker="KDT\{CC949304-F78C-4145-A01E-9D5909EF84CE}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 						<testParameters />
 						<environments activeCloud="CBT" />
 						<children />
 					</testItem>
-					<testItem name="Contactxl" key="{9C2A8FA5-83CE-44D7-8ADF-FEC2317F4303}" group="False" parallel="False" enabled="True" testMoniker="{ACA9B54A-330E-49D0-B12C-46AEDCDAE23E}Contactxl" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+					<testItem name="Contactxl" key="{9C2A8FA5-83CE-44D7-8ADF-FEC2317F4303}" group="False" parallel="False" enabled="True" testMoniker="{ACA9B54A-330E-49D0-B12C-46AEDCDAE23E}Contactxl" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 						<testParameters />
 						<environments activeCloud="CBT" />
 						<children />
@@ -67,9 +67,6 @@
 						<Row No="3" Cell0="Megan Parrish" Cell1="daugherty@sociis.us" Cell2="Hello, I live in Olean and my phone number is 730-466-7335" />
 						<Row No="4" Cell0="Plato Mcclain" Cell1="thornton@bibendum.edu" Cell2="Hello, I live in Valencia and my phone number is 421-364-8522" />
 					</DefValue>
-				</Variable>
-				<Variable Name="Password1" Type="Password" Local="False">
-					<DefValue StrValue="3800390036003100360033004400300046003400440038004300420046003100380043003900420041003700390036003500410039004200310038003100390041004600420031004400300036003700" />
 				</Variable>
 			</Items>
 		</data>

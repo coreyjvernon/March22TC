@@ -75,6 +75,33 @@
 				<Prp name="relpath" type="S" value="3_14_2022_12_10 PM_49_674\Description.tcLog"/>
 				<Prp name="status" type="I" value="0"/>
 			</Node>
+			<Node name="log idx=0006">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44649.4108518287"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{6D167E19-84EF-4BAD-9CC2-621623D5AFEE}"/>
+				<Prp name="nameofroot" type="S" value="DeskTest"/>
+				<Prp name="relpath" type="S" value="3_29_2022_9_51 AM_37_598\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0007">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44649.4118894097"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{3F8DE1AC-B0E8-43FD-B01D-E4B24221793E}"/>
+				<Prp name="nameofroot" type="S" value="DeskTest"/>
+				<Prp name="relpath" type="S" value="3_29_2022_9_53 AM_07_245\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0008">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44649.4416319792"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{7D54E2BB-BB05-459C-8F93-F8CDC996B357}"/>
+				<Prp name="nameofroot" type="S" value="DeskTest"/>
+				<Prp name="relpath" type="S" value="3_29_2022_10_35 AM_57_3\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
 		</Node>
 		<Prp name="signature" type="S" value="{681DCC69-A39F-4C4D-8E7D-B2D9362FAF4F}"/>
 		<Prp name="version" type="S" value="11.0"/>
